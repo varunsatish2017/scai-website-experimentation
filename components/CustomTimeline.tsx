@@ -132,11 +132,11 @@ const CustomTimeline = (props: any) => {
 
   return (
     <div ref={props.forwardRef} className="w-full py-2 px-3 md:px-20">
-      <h1 className="text-6xl font-bold md:text-left text-center  bg-gradient-to-b from-red-800 via-orange-500 to-red-700 bg-clip-text text-transparent py-5 ">
-        Fall Schedule
+      <h1 className="text-6xl font-bold md:text-left text-center  bg-gradient-to-b from-blue-800 via-blue-500 to-blue-700 bg-clip-text text-transparent py-5 ">
+        Winter Schedule
       </h1>
       <p className="text-white md:text-left text-center text-xl font-semibold">
-        Wednesdays 3-4pm
+        Mondays 2-3pm
       </p>
       <p className="text-white md:text-left text-center text-lg ">
         Location: E2-180
